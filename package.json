@@ -1,0 +1,41 @@
+{
+  "name": "castellana-due-diligence-services",
+  "version": "1.0.0",
+  "description": "castellana-due-diligence-services",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "concurrently \"nodemon index.js\" \"vite\"",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.6.0",
+    "@google-cloud/storage": "^7.15.0",
+    "@google-cloud/vision": "^4.3.0",
+    "axios": "^1.7.7",
+    "bluebird": "^3.7.2",
+    "bootstrap": "^5.3.3",
+    "cheerio": "^1.0.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.0",
+    "html-to-docx": "^1.8.0",
+    "mammoth": "^1.8.0",
+    "multer": "^1.4.5-lts.1",
+    "openai": "^4.67.1",
+    "pdf-parse": "^1.1.1",
+    "portkey-ai": "^1.5.1",
+    "react": "^18.2.0",
+    "react-bootstrap": "^2.10.5",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.2",
+    "concurrently": "^8.2.2",
+    "depcheck": "^1.4.7",
+    "kill-port": "^2.0.1",
+    "nodemon": "^2.0.22",
+    "vite": "^5.4.8"
+  }
+}

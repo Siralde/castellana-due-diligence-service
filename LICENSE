@@ -1,0 +1,14 @@
+GNU Affero General Public License v3.0 (AGPL-3.0)
+
+Castellana Due Diligence Service is released under the GNU Affero General Public License v3.0 (AGPL-3.0).
+
+This license ensures that Castellana remains free and open-source, with a strong copyleft—meaning:
+
+You are free to use, modify, and distribute the software.
+
+If you run Castellana Due Diligence Service as a network service (e.g., via castellana.vc or your own hosted version), and users interact with it, you must also make the source code—including any modifications—available to those users.
+
+This closes the "SaaS loophole" found in other open-source licenses, ensuring the community benefits from all improvements, even if the software is only used over the web.
+
+For full terms, see LICENSE or visit the GNU AGPL v3.0 official text.
+
